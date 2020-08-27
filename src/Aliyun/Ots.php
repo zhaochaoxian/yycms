@@ -1,5 +1,5 @@
 <?php
-namespace Yycms/Aliyun;
+namespace Yycms\Aliyun;
 use Aliyun\OTS\OTSServerException;
 
 class Ots{
