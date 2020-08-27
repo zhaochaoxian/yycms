@@ -9,12 +9,7 @@
             "email": "613600010@qq.com"
         }
     ],
-	"require" : {
-		"php" : ">=5.6",
-	},
-	"autoload" : {
-		"psr-4" : {
-			"Yycms\\" : "src"
-		}
-	}
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
