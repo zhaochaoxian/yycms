@@ -1,0 +1,21 @@
+{
+    "name": "wd/yycms",
+    "description": "yycms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaochaoxian",
+            "email": "613600010@qq.com"
+        }
+    ],
+	"require" : {
+		"php" : ">=5.6"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Yycms\\" : "src"
+		}
+	},
+    "require": {}
+}
