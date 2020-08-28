@@ -1,7 +1,7 @@
 {
     "name": "wdkj/yycms",
     "description": "yycms",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +12,7 @@
     "require": {
 		"php": ">=7.1.0",
 		"firebase/php-jwt": "^5.0",
+        "qiniu/php-sdk": "^7.2",
         "topthink/framework": "^6.0.0"
     },
 	"autoload":{
