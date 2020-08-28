@@ -18,6 +18,10 @@
         },
         "psr-0": {
             "": "extend/"
-        }
+        },
+		"classmap":{
+			"app",
+			"extend"
+		}
     }
 }
